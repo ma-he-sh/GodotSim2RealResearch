@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gimbal_uniform.obj-03472ab6e69ecdb8e3963bf6ecd0831c.mesh"
+
+[deps]
+
+files=[ "res://.import/gimbal_uniform.obj-03472ab6e69ecdb8e3963bf6ecd0831c.mesh" ]
+
+source_file="res://assets/gimbal_uniform.obj"
+dest_files=[ "res://.import/gimbal_uniform.obj-03472ab6e69ecdb8e3963bf6ecd0831c.mesh", "res://.import/gimbal_uniform.obj-03472ab6e69ecdb8e3963bf6ecd0831c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

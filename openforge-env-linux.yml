@@ -1,0 +1,27 @@
+name: openforge-linux
+
+channels:
+    - conda-forge
+dependencies:
+    - python=3.9
+    - pip>=19.0
+    - jupyter
+    - tensorflow-gpu
+    - keras
+    - h5py
+    - pyyaml
+    - flask
+    - opencv
+    - selenium
+    - keyboard
+    - pynput
+    - shapely
+    - pip:
+        - scikit-image
+        - pandas
+        - flask-cors
+        - pillow
+        - selenium
+        - bayesian-optimization
+        - python-dotenv
+        - websocket-client
